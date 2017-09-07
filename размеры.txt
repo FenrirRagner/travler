@@ -1,0 +1,1428 @@
+Search for somthing here [Nexa]12 пикс.
+.Search_for_somthing_here {
+  font-size: 12px;
+  font-family: "Nexa";
+  color: rgb(149, 149, 149);
+  font-weight: bold;
+  line-height: 5.917;
+  position: absolute;
+  left: 963.105px;
+  top: 107.49px;
+  z-index: 198;
+}
+
+
+.Rectangle_2 {
+  background-color: rgb(255, 255, 255);
+  box-shadow: 0px 1px 1px 0px rgba(0, 0, 0, 0.004);
+  position: absolute;
+  left: 945px;
+  top: 48px;
+  width: 299px;
+  height: 46px;
+  z-index: 197;
+}
+
+
+Quicklinks.Quicklinks {
+  font-size: 12px;
+  font-family: "Nexa";
+  color: rgb(213, 213, 213);
+  font-weight: bold;
+  line-height: 5.917;
+  text-shadow: 0px 1px 0px rgba(255, 255, 255, 0.004);
+  position: absolute;
+  left: 656.937px;
+  top: 104.49px;
+  z-index: 193;
+}
+
+
+Select from dropdown .Select_from_dropdown {
+  font-size: 12px;
+  font-family: "Nexa";
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+  line-height: 5.917;
+  text-shadow: 0px 1px 0px rgba(255, 255, 255, 0.004);
+  position: absolute;
+  left: 770.105px;
+  top: 104.49px;
+  z-index: 192;
+}
+
+
+.Rectangle_6 {
+  background-color: rgb(118, 118, 118);
+  box-shadow: 0px 1px 0px 0px rgba(255, 255, 255, 0.004);
+  position: absolute;
+  left: 751px;
+  top: 56px;
+  width: 1px;
+  height: 25px;
+  z-index: 191;
+}
+
+
+.__ {
+  font-size: 11.418px;
+  font-family: "Quicksand";
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+  line-height: 6.218;
+  text-shadow: 0px 1px 0px rgba(255, 255, 255, 0.004);
+  -moz-transform: matrix( 0,1.02459834942672,-0.963396348455,0,0,0);
+  -webkit-transform: matrix( 0,1.02459834942672,-0.963396348455,0,0,0);
+  -ms-transform: matrix( 0,1.02459834942672,-0.963396348455,0,0,0);
+  position: absolute;
+  left: 911.04px;
+  top: 33.501px;
+  z-index: 190;
+}
+
+
+Get the advice you need about travel .Get_the_advice_you_need_about_travel {
+  font-size: 12px;
+  font-family: "PTSans";
+  color: rgb(125, 125, 125);
+  font-style: italic;
+  line-height: 3.417;
+  text-shadow: 0px 1px 0px rgba(255, 255, 255, 0.004);
+  position: absolute;
+  left: 364.937px;
+  top: 121.992px;
+  width: 188px;
+  height: 13px;
+  z-index: 186;
+}
+
+
+travler .travler {
+  font-size: 50(39)px;32
+  font-family: "NexaBlack";
+  color: rgb(96, 23, 163);
+  line-height: 0.82;
+  text-shadow: 0px 1px 0px rgba(255, 255, 255, 0.004);
+  -moz-transform: matrix( 0.7812764398877,0,0,0.78111151471122,0,0);
+  -webkit-transform: matrix( 0.7812764398877,0,0,0.78111151471122,0,0);
+  -ms-transform: matrix( 0.7812764398877,0,0,0.78111151471122,0,0);
+  position: absolute;
+  left: 362.951px;
+  top: 40px;
+  z-index: 185;
+}
+
+nav-icons
+.Nav_Icons {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1550px;
+  height: 4056px;
+  z-index: 183;
+}
+.Shape_4 {
+  background-color: rgb(255, 255, 255);
+  box-shadow: 0px 1px 0px 0px rgba(255, 255, 255, 0.004);
+  position: absolute;
+  left: 544px;
+  top: 148px;
+  width: 26px;
+  height: 24px;
+  z-index: 182;
+}
+.Shape_3_copy {
+  background-color: rgb(255, 255, 255);
+  box-shadow: 0px 1px 0px 0px rgba(255, 255, 255, 0.004);
+  position: absolute;
+  left: 1162px;
+  top: 147px;
+  width: 21px;
+  height: 26px;
+  z-index: 181;
+}
+.Shape_3 {
+  background-color: rgb(255, 255, 255);
+  box-shadow: 0px 1px 0px 0px rgba(255, 255, 255, 0.004);
+  position: absolute;
+  left: 704px;
+  top: 147px;
+  width: 21px;
+  height: 26px;
+  z-index: 180;
+}
+.Shape_2_copy {
+  border-radius: 50%;
+  background-color: rgb(255, 255, 255);
+  box-shadow: 0px 1px 0px 0px rgba(255, 255, 255, 0.004);
+  position: absolute;
+  left: 1019px;
+  top: 147px;
+  width: 26px;
+  height: 26px;
+  z-index: 179;
+}
+.Shape_2 {
+  border-radius: 50%;
+  background-color: rgb(255, 255, 255);
+  box-shadow: 0px 1px 0px 0px rgba(255, 255, 255, 0.004);
+  position: absolute;
+  left: 377px;
+  top: 147px;
+  width: 26px;
+  height: 26px;
+  z-index: 178;
+}
+.Shape_1 {
+  background-color: rgb(255, 255, 255);
+  box-shadow: 0px 1px 0px 0px rgba(255, 255, 255, 0.004);
+  position: absolute;
+  left: 870px;
+  top: 147px;
+  width: 17px;
+  height: 26px;
+  z-index: 177;
+}
+.Contact {
+  font-size: 17px;
+  font-family: "PTSans";
+  color: rgb(112, 112, 112);
+  font-weight: bold;
+  line-height: 2.412;
+  text-align: center;
+  text-shadow: 0px 1px 0px rgba(255, 255, 255, 0.004);
+  position: absolute;
+  left: 1099.266px;
+  top: 228.639px;
+  width: 55px;
+  height: 15px;
+  z-index: 176;
+}
+.How_to {
+  font-size: 17px;
+  font-family: "PTSans";
+  color: rgb(112, 112, 112);
+  font-weight: bold;
+  line-height: 2.412;
+  text-align: center;
+  text-shadow: 0px 1px 0px rgba(255, 255, 255, 0.004);
+  position: absolute;
+  left: 959.073px;
+  top: 229.709px;
+  width: 50px;
+  height: 14px;
+  z-index: 175;
+}
+.The_Tour {
+  font-size: 17px;
+  font-family: "PTSans";
+  color: rgb(112, 112, 112);
+  font-weight: bold;
+  line-height: 2.412;
+  text-align: center;
+  text-shadow: 0px 1px 0px rgba(255, 255, 255, 0.004);
+  position: absolute;
+  left: 806.267px;
+  top: 229.709px;
+  width: 63px;
+  height: 14px;
+  z-index: 174;
+}
+.About {
+  font-size: 17px;
+  font-family: "PTSans";
+  color: rgb(112, 112, 112);
+  font-weight: bold;
+  line-height: 2.412;
+  text-align: center;
+  text-shadow: 0px 1px 0px rgba(255, 255, 255, 0.004);
+  position: absolute;
+  left: 646.52px;
+  top: 229.709px;
+  width: 44px;
+  height: 14px;
+  z-index: 173;
+}
+.Services {
+  font-size: 17px;
+  font-family: "PTSans";
+  color: rgb(112, 29, 187);
+  font-weight: bold;
+  line-height: 2.412;
+  text-align: center;
+  text-shadow: 0px 1px 0px rgba(255, 255, 255, 0.004);
+  position: absolute;
+  left: 486.626px;
+  top: 228.771px;
+  width: 59px;
+  height: 15px;
+  z-index: 172;
+}
+.Travel_Guide {
+  font-size: 17px;
+  font-family: "PTSans";
+  color: rgb(112, 112, 112);
+  font-weight: bold;
+  line-height: 2.412;
+  text-align: center;
+  text-shadow: 0px 1px 0px rgba(255, 255, 255, 0.004);
+  position: absolute;
+  left: 315.815px;
+  top: 228.771px;
+  width: 90px;
+  height: 15px;
+  z-index: 171;
+}
+.Purple_copy_5 {
+  background-image: -moz-linear-gradient( 90deg, rgb(215,215,215) 0%, rgb(255,255,255) 100%);
+  background-image: -webkit-linear-gradient( 90deg, rgb(215,215,215) 0%, rgb(255,255,255) 100%);
+  background-image: -ms-linear-gradient( 90deg, rgb(215,215,215) 0%, rgb(255,255,255) 100%);
+  box-shadow: 0px 5px 5px 0px rgba(0, 0, 0, 0.16);
+  position: absolute;
+  left: 1103px;
+  top: 237px;
+  width: 142px;
+  height: 5px;
+  z-index: 170;
+}
+.Purple_copy_4 {
+  background-image: -moz-linear-gradient( 90deg, rgb(215,215,215) 0%, rgb(255,255,255) 100%);
+  background-image: -webkit-linear-gradient( 90deg, rgb(215,215,215) 0%, rgb(255,255,255) 100%);
+  background-image: -ms-linear-gradient( 90deg, rgb(215,215,215) 0%, rgb(255,255,255) 100%);
+  box-shadow: 0px 5px 5px 0px rgba(0, 0, 0, 0.16);
+  position: absolute;
+  left: 959px;
+  top: 237px;
+  width: 145px;
+  height: 5px;
+  z-index: 169;
+}
+.Purple_copy_3 {
+  background-image: -moz-linear-gradient( 90deg, rgb(215,215,215) 0%, rgb(255,255,255) 100%);
+  background-image: -webkit-linear-gradient( 90deg, rgb(215,215,215) 0%, rgb(255,255,255) 100%);
+  background-image: -ms-linear-gradient( 90deg, rgb(215,215,215) 0%, rgb(255,255,255) 100%);
+  box-shadow: 0px 5px 5px 0px rgba(0, 0, 0, 0.16);
+  position: absolute;
+  left: 788px;
+  top: 237px;
+  width: 171px;
+  height: 5px;
+  z-index: 168;
+}
+.Purple_copy_2 {
+  background-image: -moz-linear-gradient( 90deg, rgb(215,215,215) 0%, rgb(255,255,255) 100%);
+  background-image: -webkit-linear-gradient( 90deg, rgb(215,215,215) 0%, rgb(255,255,255) 100%);
+  background-image: -ms-linear-gradient( 90deg, rgb(215,215,215) 0%, rgb(255,255,255) 100%);
+  box-shadow: 0px 5px 5px 0px rgba(0, 0, 0, 0.16);
+  position: absolute;
+  left: 639px;
+  top: 237px;
+  width: 170px;
+  height: 5px;
+  z-index: 167;
+}
+.Purple_copy {
+  background-image: -moz-linear-gradient( 90deg, rgb(215,215,215) 0%, rgb(255,255,255) 100%);
+  background-image: -webkit-linear-gradient( 90deg, rgb(215,215,215) 0%, rgb(255,255,255) 100%);
+  background-image: -ms-linear-gradient( 90deg, rgb(215,215,215) 0%, rgb(255,255,255) 100%);
+  box-shadow: 0px 5px 5px 0px rgba(0, 0, 0, 0.16);
+  position: absolute;
+  left: 469px;
+  top: 229px;
+  width: 170px;
+  height: 13px;
+  z-index: 166;
+}
+.Purple {
+  background-image: -moz-linear-gradient( 90deg, rgb(215,215,215) 0%, rgb(255,255,255) 100%);
+  background-image: -webkit-linear-gradient( 90deg, rgb(215,215,215) 0%, rgb(255,255,255) 100%);
+  background-image: -ms-linear-gradient( 90deg, rgb(215,215,215) 0%, rgb(255,255,255) 100%);
+  box-shadow: 0px 5px 5px 0px rgba(0, 0, 0, 0.16);
+  position: absolute;
+  left: 304px;
+  top: 237px;
+  width: 165px;
+  height: 5px;
+  z-index: 165;
+}
+
+Подписи 17px PTSans 41px
+.Purple_copy_5 {
+  background-image: -moz-linear-gradient( 90deg, rgb(215,215,215) 0%, rgb(255,255,255) 100%);
+  background-image: -webkit-linear-gradient( 90deg, rgb(215,215,215) 0%, rgb(255,255,255) 100%);
+  background-image: -ms-linear-gradient( 90deg, rgb(215,215,215) 0%, rgb(255,255,255) 100%);
+  box-shadow: 0px 5px 5px 0px rgba(0, 0, 0, 0.16);
+  position: absolute;
+  left: 1103px;
+  top: 237px;
+  width: 142px;
+  height: 5px;
+  z-index: 170;
+}
+
+
+.Rectangle_1 {
+  background-image: -moz-linear-gradient( 90deg, rgb(215,215,215) 0%, rgb(255,255,255) 100%);
+  background-image: -webkit-linear-gradient( 90deg, rgb(215,215,215) 0%, rgb(255,255,255) 100%);
+  background-image: -ms-linear-gradient( 90deg, rgb(215,215,215) 0%, rgb(255,255,255) 100%);
+  box-shadow: 0px 5px 5px 0px rgba(0, 0, 0, 0.16);
+  position: absolute;
+  left: 304px;
+  top: 129px;
+  width: 941px;
+  height: 108px;
+  z-index: 158;
+}
+
+
+.Rectangle_3_copy_4 {
+  background-color: rgb(212, 212, 212);
+  position: absolute;
+  left: 958px;
+  top: 129px;
+  width: 1px;
+  height: 108px;
+  z-index: 162;
+}
+
+
+.Ellipse_2 {
+  border-radius: 50%;
+  background-color: rgb(69, 26, 74);
+  position: absolute;
+  left: 705px;
+  top: 425px;
+  width: 138px;
+  height: 138px;
+  z-index: 42;
+}
+
+
+.Rectangle_4 {
+  background-color: rgb(93, 39, 98);
+  position: absolute;
+  left: -74px;
+  top: 229px;
+  width: 1820px;
+  height: 552px;
+  z-index: 37;
+}
+
+
+
+.Travler_gets_you_to_where__you_want_to_be___Aro {
+  font-size: 40px;
+  font-family: "Nexa";
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+  line-height: 1.175;
+  text-align: center;
+  position: absolute;
+  left: 267.781px;
+  top: 508.457px;
+  width: 499px;
+  height: 123px;
+  z-index: 41;
+}
+
+________
+Map
+.Map {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1550px;
+  height: 4056px;
+  z-index: 155;
+}
+.And_we_mean_that_ {
+  font-size: 14px;
+  font-family: "Nexa";
+  color: rgb(161, 97, 219);
+  font-weight: bold;
+  line-height: 1.571;
+  text-align: center;
+  position: absolute;
+  left: 294.27px;
+  top: 876.22px;
+  width: 134px;
+  height: 11px;
+  z-index: 154;
+}
+.Anywhere__anytime__where_here_to_help_ {
+  font-size: 36px;
+  font-family: "Nexa";
+  color: rgb(255, 255, 255);
+  line-height: 0.611;
+  text-align: center;
+  position: absolute;
+  left: 258.921px;
+  top: 835.805px;
+  width: 712px;
+  height: 35px;
+  z-index: 153;
+}
+.Pin {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1550px;
+  height: 4056px;
+  z-index: 152;
+}
+.Shape_8 {
+  background-image: -moz-linear-gradient( 90deg, rgb(0,0,0) 0%, rgb(255,255,255) 100%);
+  background-image: -webkit-linear-gradient( 90deg, rgb(0,0,0) 0%, rgb(255,255,255) 100%);
+  background-image: -ms-linear-gradient( 90deg, rgb(0,0,0) 0%, rgb(255,255,255) 100%);
+  position: absolute;
+  left: 856px;
+  top: 908px;
+  width: 54px;
+  height: 79px;
+  z-index: 151;
+}
+.Layer_6 {
+  background-image: url("Layer 6.png");
+  opacity: 0.6;
+  position: absolute;
+  left: 874px;
+  top: 956px;
+  width: 61px;
+  height: 31px;
+  z-index: 150;
+}
+.Pin {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1550px;
+  height: 4056px;
+  z-index: 148;
+}
+.Shape_8 {
+  background-image: -moz-linear-gradient( 90deg, rgb(0,0,0) 0%, rgb(255,255,255) 100%);
+  background-image: -webkit-linear-gradient( 90deg, rgb(0,0,0) 0%, rgb(255,255,255) 100%);
+  background-image: -ms-linear-gradient( 90deg, rgb(0,0,0) 0%, rgb(255,255,255) 100%);
+  position: absolute;
+  left: 889px;
+  top: 892px;
+  width: 45px;
+  height: 70px;
+  z-index: 147;
+}
+.Layer_6 {
+  background-image: url("Layer 6.png");
+  opacity: 0.6;
+  position: absolute;
+  left: 903px;
+  top: 936px;
+  width: 61px;
+  height: 31px;
+  z-index: 146;
+}
+.Shape_7 {
+  border-style: solid;
+  border-width: 1px;
+  border-color: rgb(45, 45, 45);
+  background-color: rgb(69, 69, 69);
+  position: absolute;
+  left: 278px;
+  top: 891px;
+  width: 987px;
+  height: 190px;
+  z-index: 144;
+}
+.Layer_5 {
+  background-image: url("Layer 5.png");
+  position: absolute;
+  left: 400px;
+  top: 897px;
+  width: 823px;
+  height: 202px;
+  z-index: 143;
+}
+.Shape_6 {
+  background-image: -moz-linear-gradient( 90deg, rgb(162,96,221) 0%, rgb(255,255,255) 100%);
+  background-image: -webkit-linear-gradient( 90deg, rgb(162,96,221) 0%, rgb(255,255,255) 100%);
+  background-image: -ms-linear-gradient( 90deg, rgb(162,96,221) 0%, rgb(255,255,255) 100%);
+  position: absolute;
+  left: 276px;
+  top: 889px;
+  width: 991px;
+  height: 195px;
+  z-index: 142;
+}
+.Layer_4 {
+  background-image: url("Layer 4.png");
+  opacity: 0.2;
+  position: absolute;
+  left: 305px;
+  top: 926px;
+  width: 941px;
+  height: 213px;
+  z-index: 141;
+}
+.Layer_5_copy {
+  background-image: url("Layer 5 copy.png");
+  opacity: 0.502;
+  position: absolute;
+  left: 281px;
+  top: 998px;
+  width: 985px;
+  height: 100px;
+  z-index: 140;
+}
+
+
+.And_we_mean_that_ {
+  font-size: 14px;
+  font-family: "Nexa";
+  color: rgb(161, 97, 219);
+  font-weight: bold;
+  line-height: 1.571;
+  text-align: center;
+  position: absolute;
+  left: 294.27px;
+  top: 876.22px;
+  width: 134px;
+  height: 11px;
+  z-index: 154;
+}
+
+.Anywhere__anytime__where_here_to_help_ {
+  font-size: 36px;
+  font-family: "Nexa";
+  color: rgb(255, 255, 255);
+  line-height: 0.611;
+  text-align: center;
+  position: absolute;
+  left: 258.921px;
+  top: 835.805px;
+  width: 712px;
+  height: 35px;
+  z-index: 153;
+}
+
+
+
+gray____
+.Rounded_Rectangle_2_copy {
+  background-color: rgb(109, 109, 109);
+  position: absolute;
+  left: 866px;
+  top: 1154px;
+  width: 140px;
+  height: 3px;
+  z-index: 136;
+}
+
+
+
+.Design_Features {
+  font-size: 24px;
+  font-family: "Nexa";
+  color: rgb(255, 255, 255);
+  line-height: 0.917;
+  position: absolute;
+  left: 945.937px;
+  top: 1261.984px;
+  width: 194px;
+  height: 24px;
+  z-index: 131;
+}
+
+.Built_like_a_old_fella_no_dramas_grab_us_a_ten_ {
+  font-size: 12px;
+  font-family: "Arial";
+  color: rgb(255, 255, 255);
+  line-height: 1.833;
+  position: absolute;
+  left: 945.107px;
+  top: 1303.874px;
+  width: 296px;
+  height: 149px;
+  z-index: 130;
+}
+
+Built like a old fella no dramas grab us a ten clicks away. Lets get some digger when she'll be right metho. As cross as a no dramas as cunning as a barrack.A old fella no dramas grab us a ten clicks away. Lets get some digger when she'll be right metho. As cross as a no dramas as cunning as a barrack.
+
+.Win_over_the_team {
+  font-size: 24px;
+  font-family: "Nexa";
+  color: rgb(255, 255, 255);
+  line-height: 0.917;
+  position: absolute;
+  left: 628.877px;
+  top: 1261.948px;
+  width: 221px;
+  height: 18px;
+  z-index: 129;
+}
+
+.As_cunning_as_a_bonzer_flamin_as_stands_out_lik {
+  font-size: 12px;
+  font-family: "Arial";
+  color: rgb(255, 255, 255);
+  line-height: 1.833;
+  position: absolute;
+  left: 628.107px;
+  top: 1303.874px;
+  width: 298px;
+  height: 149px;
+  z-index: 128;
+}
+
+As cunning as a bonzer flamin as stands out like cubby house. As cross as a mate no dramas as cunning as a bonzer. Gutful of kindie flamin as cross as a grundies. Lets throw a strides also as cross as a thingo. Built like a old fella no dramas grab us a ten clicks away.
+
+.Save_Time {
+  font-size: 24px;
+  font-family: "Nexa";
+  color: rgb(255, 255, 255);
+  line-height: 0.917;
+  position: absolute;
+  left: 305.274px;
+  top: 1261.996px;
+  width: 122px;
+  height: 18px;
+  z-index: 127;
+}
+
+.Lets_throw_a_trackie_dacks_also_it_ll_be_gutta_ {
+  font-size: 12px;
+  font-family: "Arial";
+  color: rgb(255, 255, 255);
+  line-height: 1.833;
+  position: absolute;
+  left: 304px;
+  top: 1303.874px;
+  width: 296px;
+  height: 144px;
+  z-index: 126;
+}
+
+Lets throw a trackie dacks also it'll be gutta. You little ripper avos flamin lets throw a lizard drinking. Gutful of jug where as busy as a big smoke. Grab us a billy as cunning as a bull bar. As cunning as a bonzer flamin as stands out like cubby house. As cross as a mate no dramas as cunning as a bonzer. Gutful of kindie flamin as cross as a grundies. Lets throw a strides also as cross as a thingo. Built like a old fella no dramas grab us a ten clicks away. Lets get some digger when she'll be right metho. As cross as a no dramas as cunning as a barrack.
+
+____Team
+.A_humble_Team_we_are {
+  font-size: 36px;
+  font-family: "Nexa";
+  color: rgb(113, 113, 113);
+  line-height: 0.611;
+  text-align: center;
+  text-shadow: 0px 1px 0px rgba(255, 255, 255, 0.004);
+  position: absolute;
+  left: 275.815px;
+  top: 2157.805px;
+  width: 410px;
+  height: 28px;
+  z-index: 98;
+}
+
+.We_ll_some_of_us_anyways {
+  font-size: 14px;
+  font-family: "Nexa";
+  color: rgb(113, 113, 113);
+  font-weight: bold;
+  line-height: 1.571;
+  text-align: center;
+  text-shadow: 0px 1px 0px rgba(255, 255, 255, 0.004);
+  position: absolute;
+  left: 291.572px;
+  top: 2204.25px;
+  width: 179px;
+  height: 15px;
+  z-index: 99;
+}
+
+.Ellipse_1_copy {
+  border-radius: 50%;
+  background-color: rgb(151, 151, 151);
+  box-shadow: 0px 1px 0px 0px rgba(255, 255, 255, 0.004);
+  position: absolute;
+  left: 760px;
+  top: 2552px;
+  width: 10px;
+  height: 10px;
+  z-index: 94;
+}
+
+
+mem-1
+.Josh_Jansen {
+  font-size: 18px;
+  font-family: "PTSans";
+  color: rgb(123, 123, 123);
+  font-weight: bold;
+  line-height: 1.222;
+  text-align: left;
+  text-shadow: 0px 1px 0px rgba(255, 255, 255, 0.004);
+  position: absolute;
+  left: 303.625px;
+  top: 2497.872px;
+  width: 94px;
+  height: 15px;
+  z-index: 60;
+}
+
+.Digital_Producer {
+  font-size: 14px;
+  font-family: "PTSans";
+  color: rgb(123, 123, 123);
+  line-height: 1.571;
+  text-align: left;
+  text-shadow: 0px 1px 0px rgba(255, 255, 255, 0.004);
+  position: absolute;
+  left: 304.937px;
+  top: 2524.25px;
+  width: 101px;
+  height: 14px;
+  z-index: 61;
+}
+
+.Rectangle_26 {
+  background-color: rgb(143, 51, 196);
+  position: absolute;
+  left: 473px;
+  top: 2408px;
+  width: 62px;
+  height: 49px;
+  z-index: 59;
+}
+
+.Frame {
+  border-style: solid;
+  border-width: 5px;
+  border-color: rgb(255, 255, 255);
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  left: 294px;
+  top: 2232px;
+  width: 232px;
+  height: 224px;
+  z-index: 56;
+}
+
+
+mem-2
+.Blaz_Robar {
+  font-size: 18px;
+  font-family: "PTSans";
+  color: rgb(123, 123, 123);
+  font-weight: bold;
+  line-height: 1.222;
+  text-align: left;
+  text-shadow: 0px 1px 0px rgba(255, 255, 255, 0.004);
+  position: absolute;
+  left: 544.844px;
+  top: 2497.872px;
+  width: 85px;
+  height: 15px;
+  z-index: 69;
+}
+
+.Designer {
+  font-size: 14px;
+  font-family: "PTSans";
+  color: rgb(123, 123, 123);
+  line-height: 1.571;
+  text-align: left;
+  text-shadow: 0px 1px 0px rgba(255, 255, 255, 0.004);
+  position: absolute;
+  left: 544.937px;
+  top: 2524.25px;
+  width: 55px;
+  height: 14px;
+  z-index: 70;
+}
+
+
+mem-3
+.James_Brown {
+  font-size: 18px;
+  font-family: "PTSans";
+  color: rgb(123, 123, 123);
+  font-weight: bold;
+  line-height: 1.222;
+  text-align: left;
+  text-shadow: 0px 1px 0px rgba(255, 255, 255, 0.004);
+  position: absolute;
+  left: 782.625px;
+  top: 2497.872px;
+  width: 105px;
+  height: 15px;
+  z-index: 78;
+}
+
+.Developer {
+  font-size: 14px;
+  font-family: "PTSans";
+  color: rgb(123, 123, 123);
+  line-height: 1.571;
+  text-align: left;
+  text-shadow: 0px 1px 0px rgba(255, 255, 255, 0.004);
+  position: absolute;
+  left: 783.937px;
+  top: 2524.25px;
+  width: 63px;
+  height: 14px;
+  z-index: 79;
+}
+
+
+mem-4
+.Skeletor {
+  font-size: 18px;
+  font-family: "PTSans";
+  color: rgb(123, 123, 123);
+  font-weight: bold;
+  line-height: 1.222;
+  text-align: left;
+  text-shadow: 0px 1px 0px rgba(255, 255, 255, 0.004);
+  position: absolute;
+  left: 1023.096px;
+  top: 2497.872px;
+  width: 67px;
+  height: 15px;
+  z-index: 88;
+}
+
+.Administration {
+  font-size: 14px;
+  font-family: "PTSans";
+  color: rgb(123, 123, 123);
+  line-height: 1.571;
+  text-align: left;
+  text-shadow: 0px 1px 0px rgba(255, 255, 255, 0.004);
+  position: absolute;
+  left: 1023.937px;
+  top: 2524.25px;
+  width: 92px;
+  height: 12px;
+  z-index: 89;
+}
+
+
+_____text-box
+.Right {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1550px;
+  height: 4056px;
+  z-index: 122;
+}
+.Badass_Features {
+  font-size: 30px;
+  font-family: "Nexa";
+  color: rgb(37, 37, 37);
+  font-weight: bold;
+  line-height: 1;
+  text-align: left;
+  position: absolute;
+  left: 834.844px;
+  top: 2695.828px;
+  width: 244px;
+  height: 22px;
+  z-index: 121;
+}
+.Lorem_ipsum_dolor_sit_amet__consectetur_adipisc {
+  font-size: 14px;
+  font-family: "Nexa";
+  color: rgb(96, 23, 163);
+  font-weight: bold;
+  line-height: 1.786;
+  text-align: left;
+  position: absolute;
+  left: 835.391px;
+  top: 2743.25px;
+  width: 342px;
+  height: 274px;
+  z-index: 120;
+}
+._ {
+  font-size: 26px;
+  font-family: "NexaRegular";
+  color: rgb(255, 255, 255);
+  line-height: 0.923;
+  position: absolute;
+  left: 793.72px;
+  top: 2612.001px;
+  z-index: 119;
+}
+.Rectangle_18 {
+  background-color: rgb(143, 51, 196);
+  position: absolute;
+  left: 785px;
+  top: 2608px;
+  width: 30px;
+  height: 30px;
+  z-index: 118;
+}
+.Rectangle_17 {
+  background-color: rgb(255, 255, 255);
+  box-shadow: 0px 1px 1px 0px rgba(0, 0, 0, 0.004);
+  position: absolute;
+  left: 785px;
+  top: 2608px;
+  width: 460px;
+  height: 482px;
+  z-index: 117;
+}
+
+.Badass_Features {
+  font-size: 30px;
+  font-family: "Nexa";
+  color: rgb(37, 37, 37);
+  font-weight: bold;
+  line-height: 1;
+  text-align: left;
+  position: absolute;
+  left: 834.844px;
+  top: 2695.828px;
+  width: 244px;
+  height: 22px;
+  z-index: 121;
+}
+
+.Lorem_ipsum_dolor_sit_amet__consectetur_adipisc {
+  font-size: 14px;
+  font-family: "Nexa";
+  color: rgb(96, 23, 163);
+  font-weight: bold;
+  line-height: 1.786;
+  text-align: left;
+  position: absolute;
+  left: 835.391px;
+  top: 2743.25px;
+  width: 342px;
+  height: 274px;
+  z-index: 120;
+}
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec eu turpis purus. Pellentesque ullamcorper mauris vitae sapien bibendum tincidunt. Check leo dignissim + 
+Morbi malesuada mauris sed nibh placerat sit amet posuere libero egestas. Vestibulum consectetur iaculis est, at dapibus purus malesuada vitae. Mauris sollicitudin aliquam scelerisque. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec et mi sem. Duis tristique elementum tristique. Sed ac magna quis erat sagittis suscipit. Phasellus faucibus rhoncus massa, non laoreet lorem fringilla non.
+
+.Left {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1550px;
+  height: 4056px;
+  z-index: 110;
+}
+.Winning_Design_Awards {
+  font-size: 30px;
+  font-family: "Nexa";
+  color: rgb(37, 37, 37);
+  font-weight: bold;
+  line-height: 1;
+  text-align: left;
+  position: absolute;
+  left: 354.844px;
+  top: 2694.828px;
+  width: 346px;
+  height: 31px;
+  z-index: 109;
+}
+.Lorem_ipsum_dolor_sit_amet__consectetur_adipisc {
+  font-size: 14px;
+  font-family: "Nexa";
+  color: rgb(96, 23, 163);
+  font-weight: bold;
+  line-height: 1.786;
+  text-align: left;
+  position: absolute;
+  left: 355.391px;
+  top: 2743.25px;
+  width: 342px;
+  height: 274px;
+  z-index: 108;
+}
+._ {
+  font-size: 26px;
+  font-family: "NexaRegular";
+  color: rgb(255, 255, 255);
+  line-height: 0.923;
+  position: absolute;
+  left: 313.72px;
+  top: 2612.001px;
+  z-index: 107;
+}
+.Rectangle_18 {
+  background-color: rgb(143, 51, 196);
+  position: absolute;
+  left: 305px;
+  top: 2608px;
+  width: 30px;
+  height: 30px;
+  z-index: 106;
+}
+.Rectangle_17 {
+  background-color: rgb(255, 255, 255);
+  box-shadow: 0px 1px 1px 0px rgba(0, 0, 0, 0.004);
+  position: absolute;
+  left: 305px;
+  top: 2608px;
+  width: 460px;
+  height: 482px;
+  z-index: 105;
+}
+
+.Winning_Design_Awards {
+  font-size: 30px;
+  font-family: "Nexa";
+  color: rgb(37, 37, 37);
+  font-weight: bold;
+  line-height: 1;
+  text-align: left;
+  position: absolute;
+  left: 354.844px;
+  top: 2694.828px;
+  width: 346px;
+  height: 31px;
+  z-index: 109;
+}
+
+.Lorem_ipsum_dolor_sit_amet__consectetur_adipisc {
+  font-size: 14px;
+  font-family: "Nexa";
+  color: rgb(96, 23, 163);
+  font-weight: bold;
+  line-height: 1.786;
+  text-align: left;
+  position: absolute;
+  left: 355.391px;
+  top: 2743.25px;
+  width: 342px;
+  height: 274px;
+  z-index: 108;
+}
+
+.Rectangle_17 {
+  background-color: rgb(255, 255, 255);
+  box-shadow: 0px 1px 1px 0px rgba(0, 0, 0, 0.004);
+  position: absolute;
+  left: 305px;
+  top: 2608px;
+  width: 460px;
+  height: 482px;
+  z-index: 105;
+}
+
+
+.Full_Col {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1550px;
+  height: 4056px;
+  z-index: 115;
+}
+.A_full_col_text_box_sits_nicely_like_this {
+  font-size: 30px;
+  font-family: "Nexa";
+  color: rgb(37, 37, 37);
+  font-weight: bold;
+  line-height: 1;
+  text-align: left;
+  position: absolute;
+  left: 353.938px;
+  top: 3203.828px;
+  width: 503px;
+  height: 29px;
+  z-index: 114;
+}
+.Lorem_ipsum_dolor_sit_amet__consectetur_adipisc {
+  font-size: 14px;
+  font-family: "Nexa";
+  color: rgb(103, 36, 167);
+  font-weight: bold;
+  line-height: 1.786;
+  text-align: left;
+  position: absolute;
+  left: 354.988px;
+  top: 3253.25px;
+  width: 812px;
+  height: 136px;
+  z-index: 113;
+}
+.Rectangle_17 {
+  background-color: rgb(255, 255, 255);
+  box-shadow: 0px 1px 1px 0px rgba(0, 0, 0, 0.004);
+  position: absolute;
+  left: 305px;
+  top: 3107px;
+  width: 939px;
+  height: 355px;
+  z-index: 112;
+}
+
+.A_full_col_text_box_sits_nicely_like_this {
+  font-size: 30px;
+  font-family: "Nexa";
+  color: rgb(37, 37, 37);
+  font-weight: bold;
+  line-height: 1;
+  text-align: left;
+  position: absolute;
+  left: 353.938px;
+  top: 3203.828px;
+  width: 503px;
+  height: 29px;
+  z-index: 114;
+}
+
+.Lorem_ipsum_dolor_sit_amet__consectetur_adipisc {
+  font-size: 14px;
+  font-family: "Nexa";
+  color: rgb(103, 36, 167);
+  font-weight: bold;
+  line-height: 1.786;
+  text-align: left;
+  position: absolute;
+  left: 354.988px;
+  top: 3253.25px;
+  width: 812px;
+  height: 136px;
+  z-index: 113;
+}
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec eu turpis purus. Pellentesque ullamcorper mauris vitae sapien bibendum tincidunt. Check leo dignissim + Morbi malesuada mauris sed nibh placerat sit amet posuere libero egestas. Vestibulum consectetur iaculis est, at dapibus purus malesuada vitae. Mauris sollicitudin aliquam scelerisque. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec et mi sem. Duis tristique elementum tristique. Sed ac magna quis erat sagittis suscipit. Phasellus faucibus rhoncus massa, non laoreet lorem fringilla non.
+.Rectangle_17 {
+  background-color: rgb(255, 255, 255);
+  box-shadow: 0px 1px 1px 0px rgba(0, 0, 0, 0.004);
+  position: absolute;
+  left: 305px;
+  top: 3107px;
+  width: 939px;
+  height: 355px;
+  z-index: 112;
+}
+
+
+__________footer
+.Rectangle_24 {
+  background-color: rgb(145, 77, 207);
+  position: absolute;
+  left: -34px;
+  top: 3471px;
+  width: 1619px;
+  height: 29px;
+  z-index: 7;
+}
+
+.Rectangle_17 {
+  background-color: rgb(255, 255, 255);
+  box-shadow: 0px 1px 1px 0px rgba(0, 0, 0, 0.004);
+  position: absolute;
+  left: 305px;
+  top: 3107px;
+  width: 939px;
+  height: 355px;
+  z-index: 112;
+}
+
+.nav {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1550px;
+  height: 4056px;
+  z-index: 34;
+}
+.Layer_7 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 0px;
+  height: 0px;
+  z-index: 33;
+}
+.Rectangle_14 {
+  background-color: rgb(145, 77, 207);
+  position: absolute;
+  left: 840px;
+  top: 3570px;
+  width: 48px;
+  height: 4px;
+  z-index: 32;
+}
+.Portfolio_______________Services_______________ {
+  font-size: 12px;
+  font-family: "Nexa";
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+  line-height: 5.917;
+  position: absolute;
+  left: 837.937px;
+  top: 3514.498px;
+  z-index: 31;
+}
+.Rectangle_6_copy_3 {
+  background-color: rgb(118, 118, 118);
+  position: absolute;
+  left: 1174px;
+  top: 3544px;
+  width: 1px;
+  height: 11px;
+  z-index: 30;
+}
+.Rectangle_6_copy_2 {
+  background-color: rgb(118, 118, 118);
+  position: absolute;
+  left: 1083px;
+  top: 3544px;
+  width: 1px;
+  height: 11px;
+  z-index: 29;
+}
+.Rectangle_6_copy {
+  background-color: rgb(118, 118, 118);
+  position: absolute;
+  left: 1007px;
+  top: 3544px;
+  width: 1px;
+  height: 11px;
+  z-index: 28;
+}
+.Rectangle_6 {
+  background-color: rgb(118, 118, 118);
+  position: absolute;
+  left: 912px;
+  top: 3544px;
+  width: 1px;
+  height: 11px;
+  z-index: 27;
+}
+
+.Rectangle_14 {
+  background-color: rgb(145, 77, 207);
+  position: absolute;
+  left: 840px;
+  top: 3570px;
+  width: 48px;
+  height: 4px;
+  z-index: 32;
+}
+
+.Portfolio_______________Services_______________ {
+  font-size: 12px;
+  font-family: "Nexa";
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+  line-height: 5.917;
+  position: absolute;
+  left: 837.937px;
+  top: 3514.498px;
+  z-index: 31;
+}
+
+.Get_the_advice_you_need_about_travel {
+  font-size: 12px;
+  font-family: "PTSans";
+  color: rgb(125, 125, 125);
+  font-style: italic;
+  line-height: 3.417;
+  position: absolute;
+  left: 366.937px;
+  top: 3605.992px;
+  width: 188px;
+  height: 12px;
+  z-index: 23;
+}
+
+.travler {
+  font-size: 50px;
+  font-family: "NexaBlack";
+  color: rgb(96, 23, 163);
+  line-height: 0.82;
+  -moz-transform: matrix( 0.7812764398877,0,0,0.78111151471122,0,0);
+  -webkit-transform: matrix( 0.7812764398877,0,0,0.78111151471122,0,0);
+  -ms-transform: matrix( 0.7812764398877,0,0,0.78111151471122,0,0);
+  position: absolute;
+  left: 364.951px;
+  top: 3523.5px;
+  z-index: 22;
+}
+
+.Mail {
+  font-size: 12px;
+  font-family: "PTSans";
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+  line-height: 5.917;
+  position: absolute;
+  left: 1116.938px;
+  top: 3581.998px;
+  z-index: 13;
+}
+
+
+
+Trent from punchy digger bloody gutful of mokkies. Get a dog up ya fair dinkum mate as cross as a flake. Stands out like a bluey flamin stands out like a pot. As stands out like christmas to grab us a ugg boots. She'll be right buckley's chance my as stands out like divvy van. It'll be smokes trent from punchy chewie. 
+.Trent_from_punchy_digger_bloody_gutful_of_mokki {
+  font-size: 12px;
+  font-family: "Helvetica";
+  color: rgb(255, 255, 255);
+  line-height: 1.917;
+  position: absolute;
+  left: 305.384px;
+  top: 3635.992px;
+  width: 451px;
+  height: 82px;
+  z-index: 10;
+}
+
+
+As cross as a hoon my built like a op shop. We're going bored sh*tless heaps she'll be right budgie smugglers. Grab us a durry mate she'll be right dunny rat. She'll be right larrikin with skite. As stands out like kero it'll be truckie.
+.As_cross_as_a_hoon_my_built_like_a_op_shop__We_ {
+  font-size: 11px;
+  font-family: "Helvetica";
+  color: rgb(126, 126, 126);
+  line-height: 1.909;
+  text-align: left;
+  position: absolute;
+  left: 303.937px;
+  top: 3798.856px;
+  width: 762px;
+  height: 33px;
+  z-index: 9;
+}
+
+.About_us______Footer_Links_here____Privacy_____ {
+  font-size: 12px;
+  font-family: "Helvetica";
+  color: rgb(255, 255, 255);
+  line-height: 3.417;
+  text-align: left;
+  position: absolute;
+  left: 303.882px;
+  top: 3783.992px;
+  width: 519px;
+  height: 12px;
+  z-index: 8;
+}
+
+
+.Layer_1 {
+  background-image: url("Layer 1.png");
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1550px;
+  height: 4056px;
+  z-index: 2;
+}
+
+
+
+.Rectangle_23 {
+  background-color: rgb(55, 55, 55);
+  position: absolute;
+  left: -30px;
+  top: 3496px;
+  width: 1937px;
+  height: 1688px;
+  z-index: 6;
+}
+
