@@ -1,0 +1,30 @@
+Скелет разметки tarveler
+header
+	logo
+	location
+	seartch
+	nav
+		travel guide
+		services
+		about
+		the tour
+		how to
+		contact
+
+slider
+map & info
+	map
+	features
+screen
+team
+testimonials
+	left
+	right
+	full
+footer
+	logo
+	footer-nav
+	text-content
+	social block
+	buttom fut nav
+	copyright
